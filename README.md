@@ -9,22 +9,21 @@
 
 RENTALKU adalah aplikasi manajemen penyewaan mobil berbasis web yang dibangun dengan arsitektur MVC (Model-View-Controller) menggunakan PHP Native. Aplikasi ini fokus pada kemudahan admin dalam mengelola stok unit, data pelanggan, hingga proses transaksi yang terhitung otomatis.
 
-## STRUKTUR FOLDER (PROJECT_UAS)
-
+### 📂 Struktur Folder Proyek
+```php
 PROJECT_UAS/
 ├── app/                # Inti aplikasi (Logika MVC)
 │   ├── config/         # Konfigurasi Database & Base URL
-│   ├── controllers/    # Pengatur alur aplikasi (Auth, Mobil, Transaksi)
+│   ├── Controller/     # Pengatur alur aplikasi (Auth, Mobil, Transaksi)
 │   ├── core/           # Library utama (App, Controller, Database)
 │   ├── models/         # Pengelola data database (Query SQL)
-│   └── views/          # Tampilan antarmuka pengguna (HTML/CSS/PHP)
+│   └── views/          # Tampilan antarmuka pengguna
 ├── public/             # Folder akses publik (Assets)
 │   ├── css/            # File stylesheet (style.css)
-│   ├── img/            # Penyimpanan foto armada mobil (Avanza, Brio, dll)
+│   ├── img/            # Penyimpanan foto armada mobil
 │   ├── js/             # Script interaktif (script.js)
 │   └── index.php       # Entry point utama aplikasi
 └── .htaccess           # Konfigurasi URL agar bersih/SEO friendly
-
 ## FITUR UTAMA & SCREENSHOT PENJELASAN
 
 A. LOGIN & AUTH
