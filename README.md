@@ -35,17 +35,18 @@ js/ : File interaktif (script.js)
 FITUR UTAMA & SCREENSHOT PENJELASAN
 
 A. LOGIN & AUTH
-
 Memastikan hanya admin terdaftar yang bisa masuk ke sistem.
-
-B. DASHBOARD
-Menampilkan kartu statistik stok mobil, pelanggan, dan riwayat.
 <img width="569" height="630" alt="image" src="https://github.com/user-attachments/assets/34a98db2-48dc-4e0e-8b3d-c152fb70d5c1" />
 
 
-C. DAFTAR MOBIL (CRUD)
+B. DASHBOARD
+Menampilkan kartu statistik stok mobil, pelanggan, dan riwayat.
+<img width="1270" height="666" alt="image" src="https://github.com/user-attachments/assets/7be4edfd-6d09-4c2c-856f-5129fe28f6ae" />
 
+
+C. DAFTAR MOBIL (CRUD)
 Tampilan tabel yang rapi dengan foto unit dan harga sewa.
+
 
 Tombol Aksi: Hijau (Sewa), Kuning (Edit), Merah (Hapus).
 
