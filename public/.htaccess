@@ -1,0 +1,10 @@
+Options -Multiviews
+
+RewriteEngine On
+
+# Abaikan jika user mengakses folder atau file asli (seperti gambar/css)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Arahkan sisanya ke index.php
+RewriteRule ^(.*)$ index.php?url=$1 [L,QSA]

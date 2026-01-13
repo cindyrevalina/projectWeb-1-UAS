@@ -1,0 +1,32 @@
+/* public/css/style.css */
+:root {
+    --coklat-tua: #8B4513;
+    --coklat-muda: #D2B48C;
+    --abu-abu: #f4f4f4;
+}
+
+body {
+    background-color: var(--abu-abu) !important;
+}
+
+/* Header kartu & Sidebar */
+.card-header, .sidebar, .bg-brown {
+    background-color: var(--coklat-tua) !important;
+    color: #ffffff !important;
+}
+
+/* Tombol Custom */
+.btn-custom, .btn-primary {
+    background-color: var(--coklat-tua) !important;
+    border: none !important;
+    color: white !important;
+}
+
+.btn-custom:hover, .btn-primary:hover {
+    background-color: #5D2E0A !important;
+}
+
+/* Judul */
+h3, h2, h5 {
+    color: var(--coklat-tua);
+}
