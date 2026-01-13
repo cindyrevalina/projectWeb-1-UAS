@@ -46,6 +46,7 @@ Menampilkan kartu statistik stok mobil, pelanggan, dan riwayat.
 
 C. DAFTAR MOBIL (CRUD)
 Tampilan tabel yang rapi dengan foto unit dan harga sewa.
+<img width="1326" height="658" alt="image" src="https://github.com/user-attachments/assets/3f1e7632-042d-460a-9a8e-ea3205b18e9f" />
 
 
 Tombol Aksi: Hijau (Sewa), Kuning (Edit), Merah (Hapus).
