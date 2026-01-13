@@ -64,10 +64,10 @@ Pilihan metode pembayaran (Cash/Transfer).
 E. RIWAYAT TRANSAKSI
 
 Laporan transaksi yang sudah dilakukan.
-
 Menampilkan status transaksi (Proses/Selesai).
-
 CARA INSTALASI
+<img width="1330" height="633" alt="image" src="https://github.com/user-attachments/assets/0467c23a-74d4-4503-b8bc-84b3ef49f048" />
+
 
 Ekstrak folder PROJECT_UAS ke C:/xampp/htdocs/.
 
