@@ -81,6 +81,7 @@ Sesuaikan BASEURL di app/config/Config.php.
 
 ## Buka browser: http://localhost/PROJECT_UAS/public/
 
-## Link Youtube: 
+## Link Youtube:
+https://youtu.be/kJAxbcQy4XE?si=mO7xbFk9vqJXjx-h
 
 
