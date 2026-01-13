@@ -24,6 +24,9 @@ PROJECT_UAS/
 │   ├── js/             # Script interaktif (script.js)
 │   └── index.php       # Entry point utama aplikasi
 └── .htaccess           # Konfigurasi URL agar bersih/SEO friendly
+```
+
+
 ## FITUR UTAMA & SCREENSHOT PENJELASAN
 
 A. LOGIN & AUTH
