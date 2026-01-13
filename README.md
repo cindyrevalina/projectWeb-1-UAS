@@ -68,6 +68,8 @@ Menampilkan status transaksi (Proses/Selesai).
 CARA INSTALASI
 <img width="1330" height="633" alt="image" src="https://github.com/user-attachments/assets/0467c23a-74d4-4503-b8bc-84b3ef49f048" />
 
+F. Menghapus data armada mobil yang sudah tidak digunakan dari database secara permanen.
+<img width="1300" height="503" alt="image" src="https://github.com/user-attachments/assets/d76f84bf-165c-4cb9-8d41-5dba6e486c85" />
 
 Ekstrak folder PROJECT_UAS ke C:/xampp/htdocs/.
 
@@ -77,35 +79,4 @@ Sesuaikan BASEURL di app/config/Config.php.
 
 Buka browser: http://localhost/PROJECT_UAS/public/
 
-=========================================================== Copyright (c) 2026 - RENTALKU Project OOP Modular
-Penjelasan Screenshot untuk Video:
-Untuk videomu, kamu bisa menaruh screenshot (SS) dengan urutan berikut:
-
-SS Struktur Folder: Tunjukkan folder app dan public di VS Code untuk membuktikan ini project MVC.
-
-SS Daftar Mobil: Tunjukkan tabel dengan tombol Sewa, Edit, Hapus yang sudah ada teksnya.
-
-SS Form Sewa: Tunjukkan saat kamu mengisi tanggal dan harganya berubah otomatis.
-
-SS Riwayat: Tunjukkan data yang baru kamu input muncul di daftar transaksi.
-
-NARASI VIDEO PRESENTASI RENTALKU
-1. Pembukaan (Halaman Login/Dashboard)
-
-"Halo semuanya, perkenalkan nama saya Cindy Revalina Simanullang. Hari ini saya akan mempresentasikan proyek UAS saya, yaitu RENTALKU, sebuah sistem informasi rental mobil berbasis web yang dibangun dengan arsitektur MVC menggunakan PHP Native. Kita mulai dari halaman Dashboard, di sini admin bisa melihat ringkasan data stok mobil, jumlah pelanggan, dan total transaksi secara real-time."
-
-2. Manajemen Data (Halaman Mobil)
-
-"Selanjutnya kita masuk ke menu Mobil. Di sini terdapat daftar unit yang tersedia lengkap dengan foto, nomor plat, dan harga sewa harian. Saya telah menyediakan tombol aksi yang jelas: Hijau untuk Sewa, Kuning untuk Edit, dan Merah untuk Hapus. Fitur Pencarian juga sudah terintegrasi, memudahkan admin mencari unit hanya dengan mengetik nama atau plat nomornya."
-
-3. Proses Transaksi (Halaman Sewa)
-
-"Sekarang, mari kita simulasikan proses penyewaan. Saat kita klik tombol Sewa, sistem akan membawa kita ke Form Konfirmasi & Pembayaran. Di sini kita tinggal memilih pelanggan dari database. Fitur unggulan di sini adalah Kalkulasi Otomatis; saat saya memasukkan tanggal sewa dan tanggal kembali, sistem secara otomatis menghitung total biaya berdasarkan durasi harinya tanpa perlu reload halaman."
-
-4. Laporan & Riwayat (Halaman Transaksi)
-
-"Setelah transaksi diselesaikan, data akan tersimpan ke database dan muncul di halaman Riwayat Transaksi. Admin bisa memantau semua aktivitas penyewaan lengkap dengan metode pembayaran yang digunakan, baik itu Cash maupun Transfer."
-
-5. Penutup (Halaman Logout)
-
-"Terakhir, sistem ini juga dilengkapi fitur keamanan Session sehingga admin harus login terlebih dahulu untuk mengakses data, dan bisa keluar melalui tombol Logout. Demikian presentasi aplikasi RENTALKU dari saya. Terima kasih."
+ession sehingga admin harus login terlebih dahulu untuk mengakses data, dan bisa keluar melalui tombol Logout. Demikian presentasi aplikasi RENTALKU dari saya. Terima kasih."
