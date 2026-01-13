@@ -56,10 +56,10 @@ Fitur Pencarian: Mencari mobil berdasarkan nama atau plat nomor secara instan.
 D. SISTEM SEWA & PEMBAYARAN
 
 Memilih pelanggan dari database.
-
 Hitung otomatis total biaya berdasarkan selisih tanggal sewa dan kembali.
-
 Pilihan metode pembayaran (Cash/Transfer).
+<img width="1139" height="659" alt="image" src="https://github.com/user-attachments/assets/a4d624a3-3ac3-4e1a-8338-5083a8119619" />
+
 
 E. RIWAYAT TRANSAKSI
 
