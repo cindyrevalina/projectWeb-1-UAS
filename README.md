@@ -5,7 +5,7 @@ NIM        : 312410417
 MATAKULIAH : PEMROGRAMAN
 
 
-=========================================================== RENTALKU - SISTEM INFORMASI RENTAL MOBIL
+RENTALKU - SISTEM INFORMASI RENTAL MOBIL
 DESKRIPSI PROYEK
 
 RENTALKU adalah aplikasi manajemen penyewaan mobil berbasis web yang dibangun dengan arsitektur MVC (Model-View-Controller) menggunakan PHP Native. Aplikasi ini fokus pada kemudahan admin dalam mengelola stok unit, data pelanggan, hingga proses transaksi yang terhitung otomatis.
@@ -39,8 +39,9 @@ A. LOGIN & AUTH
 Memastikan hanya admin terdaftar yang bisa masuk ke sistem.
 
 B. DASHBOARD
-
 Menampilkan kartu statistik stok mobil, pelanggan, dan riwayat.
+<img width="569" height="630" alt="image" src="https://github.com/user-attachments/assets/34a98db2-48dc-4e0e-8b3d-c152fb70d5c1" />
+
 
 C. DAFTAR MOBIL (CRUD)
 
