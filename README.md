@@ -1,16 +1,15 @@
-NAMA       : CINDY REVALINA SIMANULLANG
+# UAS PEMOGRAMAN WEB 1
 
-NIM        : 312410417
+## NAMA       : CINDY REVALINA SIMANULLANG
+## NIM        : 312410417
+## MATAKULIAH : PEMROGRAMAN
 
-MATAKULIAH : PEMROGRAMAN
-
-
-RENTALKU - SISTEM INFORMASI RENTAL MOBIL
-DESKRIPSI PROYEK
+# RENTALKU - SISTEM INFORMASI RENTAL MOBIL
+## DESKRIPSI PROYEK
 
 RENTALKU adalah aplikasi manajemen penyewaan mobil berbasis web yang dibangun dengan arsitektur MVC (Model-View-Controller) menggunakan PHP Native. Aplikasi ini fokus pada kemudahan admin dalam mengelola stok unit, data pelanggan, hingga proses transaksi yang terhitung otomatis.
 
-STRUKTUR FOLDER (PROJECT_UAS)
+## STRUKTUR FOLDER (PROJECT_UAS)
 
 app/ : Inti aplikasi (Logika sistem)
 
@@ -32,7 +31,7 @@ img/ : Penyimpanan foto mobil (avanza.jpg, brio.jpg, xpander.jpg)
 
 js/ : File interaktif (script.js)
 
-FITUR UTAMA & SCREENSHOT PENJELASAN
+## FITUR UTAMA & SCREENSHOT PENJELASAN
 
 A. LOGIN & AUTH
 Memastikan hanya admin terdaftar yang bisa masuk ke sistem.
@@ -53,7 +52,12 @@ Tombol Aksi: Hijau (Sewa), Kuning (Edit), Merah (Hapus).
 
 Fitur Pencarian: Mencari mobil berdasarkan nama atau plat nomor secara instan.
 
-D. SISTEM SEWA & PEMBAYARAN
+
+D. Menghapus data armada mobil yang sudah tidak digunakan dari database secara permanen.
+<img width="1300" height="503" alt="image" src="https://github.com/user-attachments/assets/d76f84bf-165c-4cb9-8d41-5dba6e486c85" />
+
+
+E. SISTEM SEWA & PEMBAYARAN
 
 Memilih pelanggan dari database.
 Hitung otomatis total biaya berdasarkan selisih tanggal sewa dan kembali.
@@ -61,15 +65,13 @@ Pilihan metode pembayaran (Cash/Transfer).
 <img width="1139" height="659" alt="image" src="https://github.com/user-attachments/assets/a4d624a3-3ac3-4e1a-8338-5083a8119619" />
 
 
-E. RIWAYAT TRANSAKSI
+F. RIWAYAT TRANSAKSI
 
 Laporan transaksi yang sudah dilakukan.
 Menampilkan status transaksi (Proses/Selesai).
 CARA INSTALASI
 <img width="1330" height="633" alt="image" src="https://github.com/user-attachments/assets/0467c23a-74d4-4503-b8bc-84b3ef49f048" />
 
-F. Menghapus data armada mobil yang sudah tidak digunakan dari database secara permanen.
-<img width="1300" height="503" alt="image" src="https://github.com/user-attachments/assets/d76f84bf-165c-4cb9-8d41-5dba6e486c85" />
 
 Ekstrak folder PROJECT_UAS ke C:/xampp/htdocs/.
 
@@ -77,6 +79,8 @@ Import database melalui phpMyAdmin.
 
 Sesuaikan BASEURL di app/config/Config.php.
 
-Buka browser: http://localhost/PROJECT_UAS/public/
+## Buka browser: http://localhost/PROJECT_UAS/public/
 
-ession sehingga admin harus login terlebih dahulu untuk mengakses data, dan bisa keluar melalui tombol Logout. Demikian presentasi aplikasi RENTALKU dari saya. Terima kasih."
+## Link Youtube: 
+
+
